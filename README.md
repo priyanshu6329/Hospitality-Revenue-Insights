@@ -16,7 +16,7 @@ The following key measures were developed to track Weekly performance:
 ---
 
 ## 📸 Dashboard Preview
-![Main Dashboard](INSERT_YOUR_IMAGE_LINK_HERE)
+![Main Dashboard](./dashboard.png)
 > **Tip:** Replace the placeholder above with your high-resolution screenshot showing KPI cards and city-wise performance.
 
 ---
